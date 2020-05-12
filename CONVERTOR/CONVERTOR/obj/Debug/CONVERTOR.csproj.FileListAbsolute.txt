@@ -1,0 +1,9 @@
+C:\Users\94768\source\repos\CONVERTOR\CONVERTOR\bin\Debug\CONVERTOR.exe.config
+C:\Users\94768\source\repos\CONVERTOR\CONVERTOR\bin\Debug\CONVERTOR.exe
+C:\Users\94768\source\repos\CONVERTOR\CONVERTOR\bin\Debug\CONVERTOR.pdb
+C:\Users\94768\source\repos\CONVERTOR\CONVERTOR\obj\Debug\CONVERTOR.csprojAssemblyReference.cache
+C:\Users\94768\source\repos\CONVERTOR\CONVERTOR\obj\Debug\CONVERTOR.Form1.resources
+C:\Users\94768\source\repos\CONVERTOR\CONVERTOR\obj\Debug\CONVERTOR.Properties.Resources.resources
+C:\Users\94768\source\repos\CONVERTOR\CONVERTOR\obj\Debug\CONVERTOR.csproj.GenerateResource.cache
+C:\Users\94768\source\repos\CONVERTOR\CONVERTOR\obj\Debug\CONVERTOR.exe
+C:\Users\94768\source\repos\CONVERTOR\CONVERTOR\obj\Debug\CONVERTOR.pdb
