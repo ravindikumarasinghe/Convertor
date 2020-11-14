@@ -16,7 +16,7 @@ namespace CONVERTOR
         {
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
-            Application.Run(1());
+            Application.Run(new Form1());
         }
     }
 }
