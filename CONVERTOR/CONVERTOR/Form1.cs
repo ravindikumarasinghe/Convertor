@@ -16,8 +16,8 @@ namespace CONVERTOR
         {
             InitializeComponent();
         }
-
-        
+                 public(object sender, EventArgs e)
+                
         {
             float number1 = float.Parse(txt1.Text);
 
