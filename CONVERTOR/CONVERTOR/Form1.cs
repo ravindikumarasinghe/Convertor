@@ -10,7 +10,7 @@ using System.Windows.Forms;
 
 namespace CONVERTOR
 {
-    public Form1 : Form
+    public partial Form1 : Form
     {
         public Form1()
         {
