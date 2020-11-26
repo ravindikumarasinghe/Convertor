@@ -12,6 +12,10 @@ namespace CONVERTOR
         /// The main entry point for the application.
         /// </summary>
 
+        {
+            Application.EnableVisualStyles();
+            Application.SetCompatibleTextRenderingDefault(false);
+            Application.Run(new Form1());
         }
     }
 }
