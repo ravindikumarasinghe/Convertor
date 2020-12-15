@@ -10,5 +10,5 @@ using System.Windows.Forms;
 
 namespace CONVERTOR
 {
-  
+  public 
 }
