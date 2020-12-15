@@ -20,7 +20,7 @@ namespace CONVERTOR
     {
         float number1 = float.Parse(txt1.Text);
         float ans = number1 / 1000;
-        txt2
+        txt2.Text = 
     }      
   }
   
