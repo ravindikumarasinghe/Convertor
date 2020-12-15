@@ -18,7 +18,7 @@ namespace CONVERTOR
     }
           private void button1_Click(object sender, EventArgs e)
     {
-        float number1 = float.Parse
+        float number1 = float.Parse(txt1.Text);
     }      
   }
   
