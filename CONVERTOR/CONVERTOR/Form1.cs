@@ -18,7 +18,7 @@ namespace CONVERTOR
     }
           private void button1_Click(object sender, EventArgs e)
     {
-        float 
+        float number1
     }      
   }
   
