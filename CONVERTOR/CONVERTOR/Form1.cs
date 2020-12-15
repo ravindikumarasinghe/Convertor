@@ -14,7 +14,7 @@ namespace CONVERTOR
   {
     public Form1()
     {
-    
+      InitializeComponent();
     }
   }
   
