@@ -19,7 +19,7 @@ namespace CONVERTOR
           private void button1_Click(object sender, EventArgs e)
     {
         float number1 = float.Parse(txt1.Text);
-        float ans = number1
+        float ans = number1 / 1000;
     }      
   }
   
